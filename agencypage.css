@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css?family=Jua');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,500,500i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body{
+	background-image: url(images/agency.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.hdr{
+	align-items: center;
+	color: blue;
+	margin: 0px 0px 50px 100px;
+	font-weight: 500;
+	font-size: 50px;
+	font-family: 'Jua', sans-serif;
+}
+
+.cntr{
+	margin: 50px 0px 50px 0px;
+
+}
+
+.btn{
+	border: dashed;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+.btn a{
+	text-decoration: none;
+	color: yellow;
+	font-weight: 800;
+	font-size: xx-large;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.foot{
+	margin: 150px 0px 50px 0px;
+}

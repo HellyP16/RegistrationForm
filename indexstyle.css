@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+
+body{
+	background-image: url(images/im2.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header{
+	color: black;
+	font-family: 'Hi Melody', cursive;
+	font-size: 70px;
+	font-weight: 600;
+
+}
+
+
+
+#btn{
+	align-items: center;
+}
+
+.btn{
+	float: left;
+	margin: 100px 0px 20px 100px;
+	display: inline-block;
+	align-content: center;
+	font-family:  'Hi Melody', cursive;
+	font-size: x-large;
+	font-weight: 700;
+	border: dashed;
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	
+}
+
+.btn a{
+	text-decoration: none;
+	color: pink;
+}
